@@ -1,0 +1,45 @@
+'''
+Created on 2017. 8. 23.
+@author: callor
+'''
+
+'''
+모듈 : 비슷한 기능들을 한 파일에 모아서 관리하는 기법
+    함수, 객체
+
+함수
+   1. 모듈작성자 : 기능을 수행하는 곳
+   2. 사용자 : 기능을 호출하는 곳
+
+명령 : keyword, reserved word(예약어)
+    if sss : # if keyword command,
+    
+    변수, 함수명, 모듈명 등으로 사용해서는 안되는 
+
+함수 : keyword()
+    System에서 기본으로 제공하는 함수
+    3rd party에서 제공하는 함수
+    사용자(개발자)임의로 필요에따라 작성하는 함수
+
+System Define Function
+    파이썬에서 외부 3rd party LIB 도움 없이
+    사용할수 있는 함수
+    print()
+
+User Define Function
+    사용자 정의 함수
+
+3rd party
+    UDF 함수들의 모음집, 유료 무료
+'''
+
+
+
+
+
+
+
+
+
+
+

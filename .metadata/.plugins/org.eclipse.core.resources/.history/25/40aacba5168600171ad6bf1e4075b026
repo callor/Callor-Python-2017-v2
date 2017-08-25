@@ -1,0 +1,15 @@
+'''
+Created on 2017. 8. 21.
+@author: callor
+'''
+
+s = """
+우리나라
+대한민국
+"""
+print(s)
+
+s = "우리나라\n대한민국"
+print(s)
+
+

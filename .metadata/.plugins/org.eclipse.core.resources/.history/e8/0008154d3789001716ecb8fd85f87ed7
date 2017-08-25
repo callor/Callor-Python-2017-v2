@@ -1,0 +1,7 @@
+'''
+Created on 2017. 8. 25.
+
+@author: callor
+'''
+a = "Hello World"
+a = "hi" + a[6:]

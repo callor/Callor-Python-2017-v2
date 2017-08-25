@@ -1,0 +1,31 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\bitWork\bit201708LeeSJ\.metadata\.plugins\org.eclipse.core.resources\.projects\Hello_Word\com.python.pydev.analysis\v2_indexcache
+Loop|1502866058551616000|C:\bitWork\bit201708LeeSJ\Hello_Word\Hello_Word\Loop.py
+Array_02|1502865071657431000|C:\bitWork\bit201708LeeSJ\Hello_Word\Hello_Word\Array_02.py
+Hello|1502862385315390000|C:\bitWork\bit201708LeeSJ\Hello_Word\Hello_Word\Hello.py
+Array_01|1502864943483427000|C:\bitWork\bit201708LeeSJ\Hello_Word\Hello_Word\Array_01.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=Loop
+3=Array_02
+1=Array_01
+-- END DICTIONARY
+-- START TREE 1
+11
+age|1|age!11@
+cou|1|count!19@
+ite|1|items!11@
+key|1|keys!11@
+myd|1|mydic!11@
+myl|4|mylist!19@mylist1!11@mylist!11@mylist!27@
+myn|1|myNotuple!11@
+mys|1|myset!11@
+myt|1|mytuple!11@
+sum|2|sum!19@sum!27@
+val|1|values!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

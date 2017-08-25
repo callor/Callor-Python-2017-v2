@@ -1,0 +1,61 @@
+'''
+Created on 2017. 8. 21.
+
+@author: callor
+'''
+'''
+숫자관련 
+   정수
+   실수
+저장공간 : 변수
+  int v : 공간만 예약 어떤값이  
+  float v
+'''
+s = 0 # 최초에는 값을 0으로 초기화
+s = 100 # 정수형 변수가 되고, 값을 100으로 할당
+s = 0 # 100이 쫒겨나고 0으로 다시 할당
+
+s1 = None # 아무것도 아닌값 내부적으로 code 0 
+s1 = ""  # None, Nothing, null 
+s1 = " " # 공백
+
+f1 = 3.2 # 실수
+b1 = False # boolean
+
+
+f1 = 1.6
+print(int(f1)) # int 함수는 실수=>정수 바꾸는
+
+i1 = 30 
+print(float(i1)) # 정수를 실수로 바꾸는
+
+print(int("3")) # 문자열로 표현된 숫자를 정수로
+
+print("3" + "4") # 문자열을 연결
+
+# 통신과정에서 주고 받는값 코드 단위 = 문자
+# 숫자 = 문자열로 되어 서로 교환
+print(int("3") + int("4")) 
+print(float("3.5")) # 문자열을 실로 바꾸는
+
+
+print(bool("False")) # 문자열을 boolean
+print(bool("false"))
+
+#bool 함수는 갑시 0일때만 False 무조건 나머지는 True
+print(bool(0))
+print(bool("0"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+

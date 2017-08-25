@@ -1,0 +1,9 @@
+'''
+Created on 2017. 8. 24.
+@author: callor
+'''
+import time
+print(time.time())
+
+from time import * 
+print(time())

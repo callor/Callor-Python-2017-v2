@@ -1,0 +1,61 @@
+'''
+Created on 2017. 8. 22.
+
+@author: callor
+'''
+
+'''
+For 구문 : 순서, 개수에 따라서 반복
+While 구문 : 조건(비교, 관계, 논리)에 따라 반복
+'''
+
+'''
+조건을 명시하고,
+그 조건이 거짓될 수 있도록 어떤 연산을 해 주어야 한다.
+    그렇지 않으면 무한 반복
+'''
+i = 1
+while i <= 10 : # 비교 연산결과가 참인동안 반복
+    print(i) # i 값이 무한이 출력
+    i = i + 1 #  i > 10이 되도록 연산을 해서 while을 끝낼 수 있도록
+
+
+s = 0     
+while True :
+    print(s)
+
+    # 내부에서 연산을 진행하고,
+    # 별도로 조건을 검사해서
+    # 강제로 중단    
+    s += 1
+    if s > 10 : break
+    
+'''
+For는 처음부터 실행될 횟수를 지정하고 시작
+'''
+for i in range(10) : # 대표적인 for 반복 구문    
+    print(i)
+    
+# range(start, end-1, step )
+for i in range(0,10,1) :
+    print(i)
+    
+list = ["This","is", "a", "book"]
+for s in list : # 컬렉션의 개수만큼 반복
+    print(s)
+    
+    
+for s in list :
+    print(s)
+    if s == "is" : break # 조건에 따라 강제 중단
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

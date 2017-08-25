@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Operator/StandardOP&apos; to &apos;StandardOP.py&apos;" description="Rename resource &apos;StandardOP&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="StandardOP" name="StandardOP.py" stamp="1503364093043" updateReferences="true"/>
+</session>

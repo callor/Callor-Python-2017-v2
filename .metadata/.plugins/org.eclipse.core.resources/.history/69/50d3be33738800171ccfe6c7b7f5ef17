@@ -1,0 +1,10 @@
+'''
+Created on 2017. 8. 24.
+@author: callor
+'''
+import time
+# 1970년 1월 1일 00시 00분 00초 부터 흐른 밀리세컨트
+print(time.time())
+
+from time import * 
+print(time())

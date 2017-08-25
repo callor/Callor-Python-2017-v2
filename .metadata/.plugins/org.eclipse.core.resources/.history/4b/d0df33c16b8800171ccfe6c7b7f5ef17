@@ -1,0 +1,12 @@
+'''
+Created on 2017. 8. 24.
+
+@author: callor
+'''
+from modules01.FunDev import *
+
+# FuncDev에 선언되어 있는
+# __name__ 의 내용이 현재파일이름인 "modules02.FuncDev"으로 변경
+# FunDev에 포함된 함수중 f1을 호출
+
+# print(f1(10,20))

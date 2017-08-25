@@ -1,0 +1,39 @@
+'''
+Created on 2017. 8. 24.
+
+@author: callor
+'''
+import os
+
+# 물리적인 파일의 폴더 위치값
+print(os.getcwd())
+mydir = os.getcwd()
+
+# 현재 폴더에 있는 파일들의 목록
+print(os.listdir())
+
+fileList = os.listdir()
+for f in fileList:
+    if f == "M_OS.py" :
+        print("현재 디렉토리에 M_OS.py이 있음")
+
+        
+from os import *
+print(getcwd())
+mydir = os.getcwd()
+
+print(os.listdir())
+
+fileList = os.listdir()
+for f in fileList :
+    if f == "M_OS.py" :
+        print("현재 디렉토리에 M_OS.py이 있음")
+
+
+
+
+
+
+
+
+        

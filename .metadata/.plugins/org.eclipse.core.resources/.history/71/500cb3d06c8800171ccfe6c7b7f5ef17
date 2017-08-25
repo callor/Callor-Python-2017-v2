@@ -1,0 +1,34 @@
+'''
+Created on 2017. 8. 24.
+
+@author: callor
+'''
+def f1(num1, num2):
+    return num1 + num2
+
+def f2(num1, num2, num3):
+    return num1 + num2 + num3
+
+myname = "__main__"
+# __name__ = "__main__"
+
+# 시스템 변수, magic value
+#     __ 로 시작되는 여러가지 변수들
+# 함수선언부와 호출위치가 같은 모듈이면
+#    __name__ = "__main__" 
+print("__name__",__name__)
+
+# 함수 자신을 호출하는 코드스크립트
+# 다른 모듈에서 import 하는 순간 실행되지 않도록 하기 위한 코드
+if __name__ == "__main__" : # true
+
+    # f1과 f2를 테스트 하는 코드
+    print(f1(10,20))
+    print(f2(10,20,30))
+    
+    
+
+
+
+
+
