@@ -1,7 +1,0 @@
-'''
-Created on 2017. 8. 21.
-@author: callor
-'''
-s = "korea"
-char1 = 'A' # 16진수 2자리 8bit, 1 Byte 공간에 1글자 할당
-string1 = 'KOREA' 

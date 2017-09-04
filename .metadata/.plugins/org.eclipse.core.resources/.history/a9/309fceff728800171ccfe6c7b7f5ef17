@@ -1,9 +1,0 @@
-'''
-Created on 2017. 8. 24.
-@author: callor
-'''
-import time
-from time import *
-
-print(time.time())
-print(time())

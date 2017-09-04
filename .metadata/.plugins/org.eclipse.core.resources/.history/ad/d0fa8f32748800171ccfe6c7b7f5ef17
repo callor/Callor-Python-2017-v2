@@ -1,9 +1,0 @@
-'''
-Created on 2017. 8. 24.
-
-@author: callor
-'''
-import os
-
-# 물리적인 파일의 폴더 위치값
-print(os.getcwd())

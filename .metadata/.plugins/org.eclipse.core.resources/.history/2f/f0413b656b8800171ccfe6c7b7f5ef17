@@ -1,9 +1,0 @@
-'''
-Created on 2017. 8. 24.
-
-@author: callor
-'''
-from modules01.FunDev import *
-
-# FunDev에 포함된 함수중 f1을 호출
-print(f1(10,20))

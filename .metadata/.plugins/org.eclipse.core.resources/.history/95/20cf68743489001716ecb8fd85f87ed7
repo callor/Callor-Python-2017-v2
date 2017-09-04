@@ -1,9 +1,0 @@
-'''
-Created on 2017. 8. 25.
-
-@author: callor
-'''
-monday = 100000
-for i in range(3) :
-    monday = monday - (monday*0.3)
-print(monday)
