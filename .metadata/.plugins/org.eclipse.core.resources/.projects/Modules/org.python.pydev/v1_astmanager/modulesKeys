@@ -1,1 +1,8 @@
 MODULES_MANAGER_V2
+SystemModule.M_OS|C:\bitWork\bit201708LeeSJ\Modules\SystemModule\M_OS.py
+SystemModule.M_Time|C:\bitWork\bit201708LeeSJ\Modules\SystemModule\M_Time.py
+functions.Udf01|C:\bitWork\bit201708LeeSJ\Modules\functions\Udf01.py
+modules01.Def01|C:\bitWork\bit201708LeeSJ\Modules\modules01\Def01.py
+modules01.Def02|C:\bitWork\bit201708LeeSJ\Modules\modules01\Def02.py
+modules01.FunDev|C:\bitWork\bit201708LeeSJ\Modules\modules01\FunDev.py
+modules01.ScDev|C:\bitWork\bit201708LeeSJ\Modules\modules01\ScDev.py
